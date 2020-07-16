@@ -6,6 +6,6 @@
 
 **Artists**: My Chemical Romance
 
-Last updated at 7/16/2020, 3:55:20 PM
+Last updated at 7/16/2020, 3:56:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
