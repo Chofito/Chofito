@@ -6,6 +6,6 @@
 
 **Artists**: The Weeknd, Doja Cat
 
-Last updated at 7/16/2020, 1:10:58 PM
+Last updated at 7/16/2020, 1:15:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
