@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e027fe4a82a08c4f0decbeddbc6">](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d79c10cdf4a58309a37d195a">](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD)
 
-**Song**: Intentions (feat. Quavo)
+**Song**: Heartless (with Julia Michaels & Morgan Wallen)
 
-**Artists**: Justin Bieber, Quavo
+**Artists**: Diplo, Julia Michaels, Morgan Wallen
 
-Last updated at 7/16/2020, 2:54:58 PM
+Last updated at 7/16/2020, 3:19:35 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
