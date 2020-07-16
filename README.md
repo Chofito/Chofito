@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0210356a0e81371e6644cb1371">](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02e71a5005c37e8c2ffd9beda8">](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF)
 
-**Song**: Boss Bitch
+**Song**: Ain't It Fun
 
-**Artists**: Doja Cat
+**Artists**: Paramore
 
-Last updated at 7/16/2020, 2:05:58 PM
+Last updated at 7/16/2020, 2:06:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
