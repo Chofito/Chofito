@@ -6,6 +6,6 @@
 
 **Artists**: R3HAB, Andy Grammer
 
-Last updated at 7/16/2020, 2:14:58 PM
+Last updated at 7/16/2020, 2:53:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
