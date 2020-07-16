@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02dbd83e179619408e5d05cc99">](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0259b8b957f164ce660919f1f4">](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK)
 
-**Song**: Fake Happy
+**Song**: How to Save a Life
 
-**Artists**: Paramore
+**Artists**: The Fray
 
-Last updated at 7/16/2020, 4:07:20 PM
+Last updated at 7/16/2020, 4:08:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
