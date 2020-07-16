@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02edd52840c88ba5e7163071cf">](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02dbd83e179619408e5d05cc99">](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs)
 
-**Song**: When We're High
+**Song**: Fake Happy
 
-**Artists**: LP
+**Artists**: Paramore
 
-Last updated at 7/16/2020, 4:03:20 PM
+Last updated at 7/16/2020, 4:04:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
