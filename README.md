@@ -6,6 +6,6 @@
 
 **Artists**: Linkin Park
 
-Last updated at 7/16/2020, 3:58:20 PM
+Last updated at 7/16/2020, 3:59:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
