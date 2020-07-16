@@ -6,6 +6,6 @@
 
 **Artists**: Paramore
 
-Last updated at 7/16/2020, 4:05:20 PM
+Last updated at 7/16/2020, 4:06:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
