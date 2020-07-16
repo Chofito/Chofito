@@ -6,6 +6,6 @@
 
 **Artists**: THE SCOTTS, Travis Scott, Kid Cudi
 
-Last updated at 7/16/2020, 2:12:58 PM
+Last updated at 7/16/2020, 2:13:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
