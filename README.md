@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e020c7d8f2356c994c328e5d639">](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02dfcbe5bdc2679e14090dad39">](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm)
 
-**Song**: Qué Maldición
+**Song**: Colocao
 
-**Artists**: Banda MS de Sergio Lizárraga, Snoop Dogg
+**Artists**: Nicki Nicole
 
-Last updated at 7/16/2020, 1:34:58 PM
+Last updated at 7/16/2020, 1:35:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
