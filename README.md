@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02b4ad7ebaf4575f120eb3f193">](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02edd52840c88ba5e7163071cf">](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw)
 
-**Song**: Numb
+**Song**: When We're High
 
-**Artists**: Linkin Park
+**Artists**: LP
 
-Last updated at 7/16/2020, 3:59:20 PM
+Last updated at 7/16/2020, 4:00:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
