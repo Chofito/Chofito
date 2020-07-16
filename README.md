@@ -6,6 +6,6 @@
 
 **Artists**: The Fray
 
-Last updated at 7/16/2020, 4:08:20 PM
+Last updated at 7/16/2020, 4:09:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
