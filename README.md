@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae">](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ced005b27d5765bee0dc9099">](https://open.spotify.com/album/3KAi8f2wv601z5bBVTL30l)
 
-**Song**: In Da Club
+**Song**: Life's A Mess (feat. Halsey)
 
-**Artists**: 50 Cent
+**Artists**: Juice WRLD, Halsey
 
-Last updated at 7/16/2020, 4:23:20 PM
+Last updated at 7/16/2020, 4:34:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
