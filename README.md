@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0217f77fab7e8f18d5f9fee4a1">](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02b4ad7ebaf4575f120eb3f193">](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3)
 
-**Song**: Teenagers
+**Song**: Numb
 
-**Artists**: My Chemical Romance
+**Artists**: Linkin Park
 
-Last updated at 7/16/2020, 3:56:20 PM
+Last updated at 7/16/2020, 3:57:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
