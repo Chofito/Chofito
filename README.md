@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595">](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a">](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM)
 
-**Song**: Otherside
+**Song**: In the End
 
-**Artists**: Red Hot Chili Peppers
+**Artists**: Linkin Park
 
-Last updated at 7/16/2020, 4:15:20 PM
+Last updated at 7/16/2020, 4:16:20 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
