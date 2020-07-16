@@ -6,6 +6,6 @@ undefined - Heartless (with Julia Michaels & Morgan Wallen),Diplo, Julia Michael
 
 **Albums**: undefined
 
-Last updated at 7/16/2020, 12:46:35 PM
+Last updated at 7/16/2020, 12:47:35 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
