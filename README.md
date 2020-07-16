@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a7c7f94cfccd5ab6de233916">](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022bc58e4de7c41e84aeacee40">](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy)
 
-**Song**: It's The End Of The World As We Know It (And I Feel Fine)
+**Song**: Bad Habit
 
-**Artists**: R.E.M.
+**Artists**: The Kooks
 
-Last updated at 7/16/2020, 1:45:58 PM
+Last updated at 7/16/2020, 1:46:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
