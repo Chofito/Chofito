@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022bc58e4de7c41e84aeacee40">](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647">](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e)
 
-**Song**: Bad Habit
+**Song**: ROCKSTAR (feat. Roddy Ricch)
 
-**Artists**: The Kooks
+**Artists**: DaBaby, Roddy Ricch
 
-Last updated at 7/16/2020, 1:49:58 PM
+Last updated at 7/16/2020, 1:50:58 PM
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
