@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ab2f8973949159695f65df7b">](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9">](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7)
 
-**Song**: Level of Concern
+**Song**: There Is a Light That Never Goes Out - 2011 Remaster
 
-**Artists**: Twenty One Pilots
+**Artists**: The Smiths
 
-Last updated at 07/17/2020 10:31
+Last updated at 07/17/2020 10:32
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
