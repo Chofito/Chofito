@@ -6,6 +6,6 @@
 
 **Artists**: Juice WRLD, Halsey
 
-Last updated at 07/17/2020 15:44
+Last updated at 07/17/2020 15:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
