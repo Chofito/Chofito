@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02bb61e8c90d454d1c2b1f2a3b">](https://open.spotify.com/album/0sPSKYjhAakg7kJQUCcs7B)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ab2f8973949159695f65df7b">](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY)
 
-**Song**: Chika Dance
+**Song**: Level of Concern
 
-**Artists**: AnimeHub
+**Artists**: Twenty One Pilots
 
-Last updated at 07/17/2020 15:47
+Last updated at 07/17/2020 15:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
