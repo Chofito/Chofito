@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ada101c2e9e97feb8fae37a9">](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e020c7d8f2356c994c328e5d639">](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ)
 
-**Song**: There Is a Light That Never Goes Out - 2011 Remaster
+**Song**: Qué Maldición
 
-**Artists**: The Smiths
+**Artists**: Banda MS de Sergio Lizárraga, Snoop Dogg
 
-Last updated at 07/17/2020 10:36
+Last updated at 07/17/2020 10:37
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
