@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ab2f8973949159695f65df7b">](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02cd318f88c2016b08fa9834f9">](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF)
 
-**Song**: Level of Concern
+**Song**: Let Her Go
 
-**Artists**: Twenty One Pilots
+**Artists**: Passenger
 
-Last updated at 07/17/2020 15:48
+Last updated at 07/17/2020 15:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
