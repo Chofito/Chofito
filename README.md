@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647">](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c">](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6)
 
-**Song**: ROCKSTAR (feat. Roddy Ricch)
+**Song**: Godzilla (feat. Juice WRLD)
 
-**Artists**: DaBaby, Roddy Ricch
+**Artists**: Eminem, Juice WRLD
 
-Last updated at 07/17/2020 11:16
+Last updated at 07/17/2020 11:17
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
