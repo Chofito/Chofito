@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02225fc2439998c95a2edfe119">](https://open.spotify.com/album/2NjENS5zmbvNvABCfygUU6)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021db3f108ae95900279c0e16f">](https://open.spotify.com/album/0Zs0b11dQneqR0rfNhbGU4)
 
-**Song**: Good Example (with Andy Grammer)
+**Song**: Life's A Mess (feat. Halsey)
 
-**Artists**: R3HAB, Andy Grammer
+**Artists**: Juice WRLD, Halsey
 
-Last updated at 07/17/2020 11:39
+Last updated at 07/17/2020 11:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
