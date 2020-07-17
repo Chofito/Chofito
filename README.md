@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022bc58e4de7c41e84aeacee40">](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8">](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq)
 
-**Song**: See Me Now
+**Song**: You're The One That I Want - From “Grease”
 
-**Artists**: The Kooks
+**Artists**: John Travolta, Olivia Newton-John
 
-Last updated at 07/17/2020 10:55
+Last updated at 07/17/2020 10:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
