@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021db3f108ae95900279c0e16f">](https://open.spotify.com/album/0Zs0b11dQneqR0rfNhbGU4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02bb61e8c90d454d1c2b1f2a3b">](https://open.spotify.com/album/0sPSKYjhAakg7kJQUCcs7B)
 
-**Song**: Life's A Mess (feat. Halsey)
+**Song**: Chika Dance
 
-**Artists**: Juice WRLD, Halsey
+**Artists**: AnimeHub
 
-Last updated at 07/17/2020 15:45
+Last updated at 07/17/2020 15:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
