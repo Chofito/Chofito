@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e029b8326ac45405124151f7726">](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0210356a0e81371e6644cb1371">](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc)
 
-**Song**: Junk Of The Heart (Happy)
+**Song**: Boss Bitch
 
-**Artists**: The Kooks
+**Artists**: Doja Cat
 
-Last updated at 07/17/2020 11:27
+Last updated at 07/17/2020 11:28
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
