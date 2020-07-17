@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02cd318f88c2016b08fa9834f9">](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022d8b1ba2af5670ae17f81a4c">](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz)
 
-**Song**: Let Her Go
+**Song**: Pigstep - Stereo Mix
 
-**Artists**: Passenger
+**Artists**: Lena Raine
 
-Last updated at 07/17/2020 15:52
+Last updated at 07/17/2020 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
