@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e028a01c7b77a34378a62f46402">](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0205a448540b069450ccfba889">](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY)
 
-**Song**: Life Is Good (feat. Drake)
+**Song**: WHATS POPPIN
 
-**Artists**: Future, Drake
+**Artists**: Jack Harlow
 
-Last updated at 07/17/2020 10:47
+Last updated at 07/17/2020 10:48
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
