@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022d8b1ba2af5670ae17f81a4c">](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d79c10cdf4a58309a37d195a">](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD)
 
-**Song**: Pigstep - Stereo Mix
+**Song**: Heartless (with Julia Michaels & Morgan Wallen)
 
-**Artists**: Lena Raine
+**Artists**: Diplo, Julia Michaels, Morgan Wallen
 
-Last updated at 07/17/2020 15:39
+Last updated at 07/17/2020 15:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
