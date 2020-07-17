@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d79c10cdf4a58309a37d195a">](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021db3f108ae95900279c0e16f">](https://open.spotify.com/album/0Zs0b11dQneqR0rfNhbGU4)
 
-**Song**: Heartless (with Julia Michaels & Morgan Wallen)
+**Song**: Life's A Mess (feat. Halsey)
 
-**Artists**: Diplo, Julia Michaels, Morgan Wallen
+**Artists**: Juice WRLD, Halsey
 
-Last updated at 07/17/2020 15:42
+Last updated at 07/17/2020 15:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
