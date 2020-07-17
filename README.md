@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02fe6874ecaf81a53e4f5a107a">](https://open.spotify.com/album/6W5NMoXsloO4Kz16ANeSAb)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e028a01c7b77a34378a62f46402">](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl)
 
-**Song**: Initials for Gainsbourg
+**Song**: Life Is Good (feat. Drake)
 
-**Artists**: The Kooks
+**Artists**: Future, Drake
 
-Last updated at 07/17/2020 10:43
+Last updated at 07/17/2020 10:44
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
