@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0259612a59ef333109d15faa8d">](https://open.spotify.com/album/0Jh3A8NAbc9eFpdUfhDedt)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02c2bf84929bb615ce1c9ed446">](https://open.spotify.com/album/55Gw682Hs0zUne87v6KBXG)
 
-**Song**: In Your Eyes (with Doja Cat) - Remix
+**Song**: Deméter
 
-**Artists**: The Weeknd, Doja Cat
+**Artists**: Destripando la Historia
 
-Last updated at 07/17/2020 11:55
+Last updated at 07/17/2020 11:56
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
