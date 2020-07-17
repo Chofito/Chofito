@@ -1,11 +1,11 @@
-## Currently Playing on SoundCloud
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-HnUgp0dBordOqm2h-nNgymg-t50x50.jpg">](https://soundcloud.com/user-810537305/pigstep-minecraft)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02cd318f88c2016b08fa9834f9">](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF)
 
-**Song**: Pigstep - Minecraft
+**Song**: Let Her Go
 
-**Artists**: Not SilvaGunner
+**Artists**: Passenger
 
-Last updated at 07/17/2020 15:51
+Last updated at 07/17/2020 15:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
