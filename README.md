@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e020c7d8f2356c994c328e5d639">](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02fe6874ecaf81a53e4f5a107a">](https://open.spotify.com/album/6W5NMoXsloO4Kz16ANeSAb)
 
-**Song**: Qué Maldición
+**Song**: Initials for Gainsbourg
 
-**Artists**: Banda MS de Sergio Lizárraga, Snoop Dogg
+**Artists**: The Kooks
 
-Last updated at 07/17/2020 12:13
+Last updated at 07/17/2020 12:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
