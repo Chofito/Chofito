@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02b68df485f3304211904548a8">](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02dfcbe5bdc2679e14090dad39">](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm)
 
-**Song**: You're The One That I Want - From “Grease”
+**Song**: Colocao
 
-**Artists**: John Travolta, Olivia Newton-John
+**Artists**: Nicki Nicole
 
-Last updated at 07/17/2020 10:58
+Last updated at 07/17/2020 10:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
