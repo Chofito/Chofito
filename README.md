@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02e71a5005c37e8c2ffd9beda8">](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0211d6f8c713ef93a9bb64ddfe">](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus)
 
-**Song**: Ain't It Fun
+**Song**: THE SCOTTS
 
-**Artists**: Paramore
+**Artists**: THE SCOTTS, Travis Scott, Kid Cudi
 
-Last updated at 07/17/2020 11:34
+Last updated at 07/17/2020 11:35
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
