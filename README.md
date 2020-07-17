@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a7c7f94cfccd5ab6de233916">](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647">](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e)
 
-**Song**: It's The End Of The World As We Know It (And I Feel Fine)
+**Song**: ROCKSTAR (feat. Roddy Ricch)
 
-**Artists**: R.E.M.
+**Artists**: DaBaby, Roddy Ricch
 
-Last updated at 07/17/2020 11:09
+Last updated at 07/17/2020 11:16
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
