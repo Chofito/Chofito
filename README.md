@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022d8b1ba2af5670ae17f81a4c">](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021db3f108ae95900279c0e16f">](https://open.spotify.com/album/0Zs0b11dQneqR0rfNhbGU4)
 
-**Song**: Pigstep - Stereo Mix
+**Song**: Life's A Mess (feat. Halsey)
 
-**Artists**: Lena Raine
+**Artists**: Juice WRLD, Halsey
 
-Last updated at 07/17/2020 16:47
+Last updated at 07/20/2020 09:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
