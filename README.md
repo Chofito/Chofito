@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021db3f108ae95900279c0e16f">](https://open.spotify.com/album/0Zs0b11dQneqR0rfNhbGU4)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02f54b99bf27cda88f4a7403ce">](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt)
 
-**Song**: Life's A Mess (feat. Halsey)
+**Song**: goosebumps
 
-**Artists**: Juice WRLD, Halsey
+**Artists**: Travis Scott
 
-Last updated at 07/20/2020 09:28
+Last updated at 07/20/2020 09:29
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
