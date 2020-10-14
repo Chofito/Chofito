@@ -1,11 +1,11 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000291654231-wgwuph-t500x500.jpg">](https://soundcloud.com/dm-dokuro/return-to-slime-ft-sixteeninmono-ingame-version)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000172682845-o5voci-t500x500.jpg">](https://soundcloud.com/skrillex/skrillex-rick-ross-purple-lamborghini)
 
-**Song**: Return To Slime (ft. SixteenInMono) (Ingame Version)
+**Song**: Skrillex & Rick Ross - Purple Lamborghini
 
-**Artists**: DM DOKURO
+**Artists**: Skrillex
 
-Last updated at 10/13/2020 22:38
+Last updated at 10/13/2020 22:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
