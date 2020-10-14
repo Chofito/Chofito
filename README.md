@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/_5p3dcM_IaUsTrqeojs_zDYllyOeDiwIBcmCFmcjiLxydblWQoCZJP_SUY5PvJScnLy84gUJzgHNY48">](https://music.youtube.com/channel/UCbn0GRdgsQtl9hlV-IqxFGg)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/aVJHVr0wXEflUISBdVrH-DZ7_vxF2ROi12J7uSC0l5cWFaRm8I3ifw4Q7BSQAcebDQ9S_cRehgFoZ9WU">](https://music.youtube.com/channel/UCo23ROZAe-BZYHpzBu9630Q)
 
-**Song**: Life's A Mess
+**Song**: San Diego
 
-**Artists**: Juice WRLD
+**Artists**: blink-182
 
-Last updated at 10/13/2020 23:07
+Last updated at 10/13/2020 23:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
