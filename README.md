@@ -1,11 +1,11 @@
 ## Currently Playing on SoundCloud
 
-[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-000172682845-o5voci-t500x500.jpg">](https://soundcloud.com/skrillex/skrillex-rick-ross-purple-lamborghini)
+[<img align="left" width="100" src="https://i1.sndcdn.com/artworks-uKty8HGDDUaj-0-t500x500.jpg">](https://soundcloud.com/kiiaraonline/gold)
 
-**Song**: Skrillex & Rick Ross - Purple Lamborghini
+**Song**: Gold
 
-**Artists**: Skrillex
+**Artists**: kiiara
 
-Last updated at 10/13/2020 22:43
+Last updated at 10/13/2020 22:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
