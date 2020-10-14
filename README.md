@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/NNK-mub0nwPyGMex9aL7AePpmfFo6s8VZMr8bemmbTS2_sZSXyEs5wAR4qyBv4EuxNEO0dFatK76ut1q">](https://music.youtube.com/channel/UClYV6hHlupm_S_ObS1W-DYw)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/_5p3dcM_IaUsTrqeojs_zDYllyOeDiwIBcmCFmcjiLxydblWQoCZJP_SUY5PvJScnLy84gUJzgHNY48">](https://music.youtube.com/channel/UCbn0GRdgsQtl9hlV-IqxFGg)
 
-**Song**: In Your Eyes (Remix) (con Doja Cat)
+**Song**: Life's A Mess
 
-**Artists**: The Weeknd
+**Artists**: Juice WRLD
 
-Last updated at 10/13/2020 22:55
+Last updated at 10/13/2020 23:07
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
