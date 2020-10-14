@@ -1,11 +1,11 @@
 ## Currently Playing on YTMusic
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/TiZnPsN0xleT9GJk9jrWlcdyyZHPMpxiBNj-8BYrQdp0y9w-IIQpPSiHE8b6ktn9qEp1iUJ_zqGjNyyy">](https://music.youtube.com/channel/UCvfjizX8aIDWRKl9ff70qmQ)
+[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Rzo7MlYMHVyj5z8vOE0W3BisK4ky2llEzP5KioNmEsTlgY5BfGmbROC_TpNbsh7RNn7wug1PlwkwIv7zQ">](https://music.youtube.com/channel/UCHmZYTfdTyVKQEJicLiXEOg)
 
-**Song**: Roses (Imanbek Remix)
+**Song**: Bad Boy ((English Version) [Bonus Track])
 
-**Artists**: SAINt JHN
+**Artists**: Red Velvet
 
-Last updated at 10/13/2020 23:11
+Last updated at 10/13/2020 23:14
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
