@@ -1,11 +1,11 @@
-## Currently Playing on YTMusic
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://lh3.googleusercontent.com/9Rzo7MlYMHVyj5z8vOE0W3BisK4ky2llEzP5KioNmEsTlgY5BfGmbROC_TpNbsh7RNn7wug1PlwkwIv7zQ">](https://music.youtube.com/watch?v=1_0LRhtdUBo)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0212e57573cbc551c187a96107">](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy)
 
-**Song**: Bad Boy ((English Version) [Bonus Track])
+**Song**: Monster (Shawn Mendes & Justin Bieber)
 
-**Artists**: Red Velvet
+**Artists**: Shawn Mendes Justin Bieber
 
-Last updated at 10/13/2020 23:29
+Last updated at 04/01/2021 15:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
