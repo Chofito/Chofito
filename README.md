@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36">](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00004851ffe04004d1e5636faa06763a">](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp)
 
-**Song**: Save Your Tears
+**Song**: YOU CAN'T HOLD MY HEART
 
-**Artists**: The Weeknd
+**Artists**: Monsta X
 
-Last updated at 04/01/2021 18:58
+Last updated at 04/07/2021 18:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
