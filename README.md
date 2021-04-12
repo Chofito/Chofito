@@ -1,11 +1,11 @@
-## Currently Playing on YouTube
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwniqwRWwcdZSWbkLuMp7QNuf091ENB1fnXwpPd3buak=s48-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d000048515ca4c4e9dc902d49bc248582">](https://open.spotify.com/album/3usZ7im5mkX0BSZW4iQO2j)
 
-**Song**: She Couldn't (Official Audio) - Linkin Park
+**Song**: Space Groove - 2021
 
-**Artists**: Linkin Park
+**Artists**: League of Legends
 
-Last updated at 04/10/2021 12:06
+Last updated at 04/11/2021 23:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
