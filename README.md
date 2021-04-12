@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0274e93b10e4b3f12ee62e99c8">](https://open.spotify.com/album/1Nt53wcuuw9CQ8uIjMEraP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0294805d9c6cd1f558d0b0a8ef">](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk)
 
-**Song**: Still I Rise
+**Song**: Cold Feet
 
-**Artists**: Alex Komlew Caroline von Brünken
+**Artists**: Loud Luxury
 
-Last updated at 04/12/2021 15:05
+Last updated at 04/12/2021 15:41
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
