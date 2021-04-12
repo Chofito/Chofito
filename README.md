@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d000048515ca4c4e9dc902d49bc248582">](https://open.spotify.com/album/3usZ7im5mkX0BSZW4iQO2j)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02044a5466dac00f7b3c570b99">](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd)
 
-**Song**: Space Groove - 2021
+**Song**: telepatía
 
-**Artists**: League of Legends
+**Artists**: Kali Uchis
 
-Last updated at 04/11/2021 23:12
+Last updated at 04/12/2021 14:50
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
