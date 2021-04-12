@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e023a5fe3a2aa3586eb1d3c8793">](https://open.spotify.com/album/4pwcUkERNjFzul0jFirApx)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02f4b8a43495c6172243cf16f4">](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX)
 
-**Song**: Oh We Winning (Miami Heat Fan Anthem)
+**Song**: We're Good
 
-**Artists**: Will Saulsky
+**Artists**: Dua Lipa
 
-Last updated at 04/12/2021 15:44
+Last updated at 04/12/2021 15:46
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
