@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0274e93b10e4b3f12ee62e99c8">](https://open.spotify.com/album/1Nt53wcuuw9CQ8uIjMEraP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02e55895d46724580b17c381e6">](https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9)
 
-**Song**: Still I Rise
+**Song**: I Can't Sleep
 
-**Artists**: Alex Komlew Caroline von Brünken
+**Artists**: POORSTACY iann dior
 
-Last updated at 04/13/2021 09:01
+Last updated at 04/13/2021 09:36
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
