@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02e55895d46724580b17c381e6">](https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0266a89b08608325d5a34f31d2">](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J)
 
-**Song**: I Can't Sleep
+**Song**: Comme Des Garçons (Like The Boys)
 
-**Artists**: POORSTACY iann dior
+**Artists**: Rina Sawayama
 
-Last updated at 04/13/2021 09:36
+Last updated at 04/13/2021 09:40
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
