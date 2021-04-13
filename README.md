@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0206b7221a0ecc0dd36f4f8f18">](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d9d770df74bf2ca2888b7ed1">](https://open.spotify.com/album/6Wn87ApHs5tJMycmDynwPU)
 
-**Song**: React
+**Song**: if we never met (feat. Kelsea Ballerini)
 
-**Artists**: The Pussycat Dolls
+**Artists**: John K Kelsea Ballerini
 
-Last updated at 04/13/2021 16:07
+Last updated at 04/13/2021 16:10
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
