@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e024fabe17f8859cb78c2495fbb">](https://open.spotify.com/album/2l2gcxuD9ev6Qun52c2l3q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a019b3d28cb8e6ae5c77a4bc">](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx)
 
-**Song**: VICES
+**Song**: Josslyn
 
-**Artists**: Mothica
+**Artists**: Olivia O'Brien
 
-Last updated at 04/13/2021 17:05
+Last updated at 04/13/2021 17:08
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
