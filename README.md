@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d0c97444ecc52c4ca601144a">](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021e4429a14d693b418b198056">](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ)
 
-**Song**: Little Things (with Quinn XCII & Chelsea Cutler)
+**Song**: Lie
 
-**Artists**: Louis The Child Quinn XCII Chelsea Cutler
+**Artists**: Sasha Sloan
 
-Last updated at 04/13/2021 16:48
+Last updated at 04/13/2021 16:51
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
