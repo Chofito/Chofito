@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e022582c22ccb6c67643677175b">](https://open.spotify.com/album/0G3ymPrE8xNHDtBk30XGs9)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e024fabe17f8859cb78c2495fbb">](https://open.spotify.com/album/2l2gcxuD9ev6Qun52c2l3q)
 
-**Song**: We Belong
+**Song**: VICES
 
-**Artists**: Dove Cameron
+**Artists**: Mothica
 
-Last updated at 04/13/2021 17:03
+Last updated at 04/13/2021 17:05
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
