@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a019b3d28cb8e6ae5c77a4bc">](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e020af1e2a115beaf720502ad7a">](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u)
 
-**Song**: Josslyn
+**Song**: Bitter
 
-**Artists**: Olivia O'Brien
+**Artists**: FLETCHER Kito
 
-Last updated at 04/13/2021 17:08
+Last updated at 04/13/2021 17:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
