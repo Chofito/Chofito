@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e020af1e2a115beaf720502ad7a">](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02be56177c667eca5074231bc5">](https://open.spotify.com/album/5DTP8GQPmmIa0snB8pGESz)
 
-**Song**: Bitter
+**Song**: Beach Ballin' (feat. blackbear)
 
-**Artists**: FLETCHER Kito
+**Artists**: Yung Pinch blackbear
 
-Last updated at 04/13/2021 17:12
+Last updated at 04/13/2021 17:15
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
