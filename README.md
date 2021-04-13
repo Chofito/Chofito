@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d9d770df74bf2ca2888b7ed1">](https://open.spotify.com/album/6Wn87ApHs5tJMycmDynwPU)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02750d9fe0a5648ad5fde3a44e">](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5)
 
-**Song**: if we never met (feat. Kelsea Ballerini)
+**Song**: Costa Rica (feat. The Kid LAROI) - Remix
 
-**Artists**: John K Kelsea Ballerini
+**Artists**: Bankrol Hayden The Kid LAROI
 
-Last updated at 04/13/2021 16:10
+Last updated at 04/13/2021 16:12
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
