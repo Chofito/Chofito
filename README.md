@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e023deb4b0115410a85afe31c29">](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0212e57573cbc551c187a96107">](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy)
 
-**Song**: Life Goes On
+**Song**: Monster (Shawn Mendes & Justin Bieber)
 
-**Artists**: BTS
+**Artists**: Shawn Mendes Justin Bieber
 
-Last updated at 04/13/2021 17:24
+Last updated at 04/13/2021 17:25
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
