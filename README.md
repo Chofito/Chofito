@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a71bcd27b13633a3916f219e">](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a2e401d7c502d86ae39e5278">](https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h)
 
-**Song**: P*$Y Fairy (OTW)
+**Song**: Tap In
 
-**Artists**: Jhené Aiko
+**Artists**: Saweetie
 
-Last updated at 04/13/2021 15:58
+Last updated at 04/13/2021 16:01
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
