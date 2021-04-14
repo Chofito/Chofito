@@ -1,11 +1,11 @@
-## Currently Playing on Spotify
+## Currently Playing on YouTube
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0272b1d033c4df671870183589">](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64)
+[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnhupPsBICFztXs08y86Px6StQ0IQ4ZR91boYYrIwA=s48-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCIvqWqjC4aLvp7zI8hzARrA)
 
-**Song**: Verte
+**Song**: Cheat Codes, Only You (Official Video)
 
-**Artists**: Nicki Nicole Dread Mar I Bizarrap
+**Artists**: Little Mix
 
-Last updated at 04/14/2021 16:43
+Last updated at 04/14/2021 16:49
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
