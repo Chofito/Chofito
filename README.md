@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02750d9fe0a5648ad5fde3a44e">](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02a2e401d7c502d86ae39e5278">](https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h)
 
-**Song**: Costa Rica (feat. The Kid LAROI) - Remix
+**Song**: Tap In
 
-**Artists**: Bankrol Hayden The Kid LAROI
+**Artists**: Saweetie
 
-Last updated at 04/14/2021 16:58
+Last updated at 04/14/2021 16:59
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
