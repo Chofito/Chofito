@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0272b1d033c4df671870183589">](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02726005f0f81903e157d9dbc7">](https://open.spotify.com/album/46K4raQPIGem3N031upNj9)
 
-**Song**: Verte
+**Song**: Old Me
 
-**Artists**: Nicki Nicole Dread Mar I Bizarrap
+**Artists**: 5 Seconds of Summer
 
-Last updated at 04/14/2021 09:51
+Last updated at 04/14/2021 09:53
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
