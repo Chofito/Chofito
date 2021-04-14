@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e025059100e732e6e17b9adbf09">](https://open.spotify.com/album/3rt9CHTA1UdpNZRqEtlPbl)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e021e4429a14d693b418b198056">](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ)
 
-**Song**: Life's A Mess (feat. Halsey)
+**Song**: Lie
 
-**Artists**: Juice WRLD Halsey
+**Artists**: Sasha Sloan
 
-Last updated at 04/14/2021 09:59
+Last updated at 04/14/2021 10:47
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
