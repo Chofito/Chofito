@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0228c24b54e9149cab239ac1cd">](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02750d9fe0a5648ad5fde3a44e">](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5)
 
-**Song**: Monsters (feat. blackbear)
+**Song**: Costa Rica (feat. The Kid LAROI) - Remix
 
-**Artists**: All Time Low blackbear
+**Artists**: Bankrol Hayden The Kid LAROI
 
-Last updated at 04/14/2021 11:49
+Last updated at 04/14/2021 11:52
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
