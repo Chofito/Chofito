@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e020c7b7c7d71d4375f812dec63">](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ffe04004d1e5636faa06763a">](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp)
 
-**Song**: DIFFERENT
+**Song**: YOU CAN'T HOLD MY HEART
 
-**Artists**: WOODZ
+**Artists**: Monsta X
 
-Last updated at 04/14/2021 12:25
+Last updated at 04/14/2021 12:26
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
