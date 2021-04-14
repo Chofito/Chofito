@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e024c701637f8c6b1d9bd73c187">](https://open.spotify.com/album/0zIjHYbzEbHSCyB1iQL3Vn)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e024bd20e01d00de4b35b61f5f7">](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF)
 
-**Song**: Pinku
+**Song**: Happen To Me
 
-**Artists**: Baauer
+**Artists**: BENEE
 
-Last updated at 04/14/2021 11:43
+Last updated at 04/14/2021 11:45
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
