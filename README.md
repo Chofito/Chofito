@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e026258cd821d868e64b74e44a5">](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d5a76dd9e9d8eef40459caeb">](https://open.spotify.com/album/3TFb8Wpl3qV4Gh9H94XiRZ)
 
-**Song**: Do It
+**Song**: Boys Ain't Shit (feat. Tate McRae & Audrey Mika)
 
-**Artists**: Chloe x Halle
+**Artists**: SAYGRACE Tate McRae Audrey Mika
 
-Last updated at 04/14/2021 10:57
+Last updated at 04/14/2021 11:00
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
