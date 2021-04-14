@@ -1,11 +1,11 @@
-## Currently Playing on YouTube
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnjnvVB9nYPFyk8y5pM4ijzh2EByMSVnWw5k-T6z=s48-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UC_kRDKYrUlrbtrSiyu5Tflg)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0272b1d033c4df671870183589">](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64)
 
-**Song**: Daft Punk ft. Julian Casablancas - Instant Crush (Official Video)
+**Song**: Verte
 
-**Artists**: Daft Punk
+**Artists**: Nicki Nicole Dread Mar I Bizarrap
 
-Last updated at 04/14/2021 16:41
+Last updated at 04/14/2021 16:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
