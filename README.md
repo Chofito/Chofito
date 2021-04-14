@@ -1,11 +1,11 @@
-## Currently Playing on YouTube
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnipkpQ2udQbGnJLoAImcM3bEBiGEpBnfAtq4a5E7zI=s48-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UC_j_M2YqgSRhLUEyOle8n1Q)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02750d9fe0a5648ad5fde3a44e">](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5)
 
-**Song**: Breakeven (Official Video)
+**Song**: Costa Rica (feat. The Kid LAROI) - Remix
 
-**Artists**: The Script
+**Artists**: Bankrol Hayden The Kid LAROI
 
-Last updated at 04/14/2021 16:52
+Last updated at 04/14/2021 16:58
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
