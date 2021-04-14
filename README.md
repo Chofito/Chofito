@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605">](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02be56177c667eca5074231bc5">](https://open.spotify.com/album/5DTP8GQPmmIa0snB8pGESz)
 
-**Song**: positions
+**Song**: Beach Ballin' (feat. blackbear)
 
-**Artists**: Ariana Grande
+**Artists**: Yung Pinch blackbear
 
-Last updated at 04/13/2021 17:28
+Last updated at 04/14/2021 07:43
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
