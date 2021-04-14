@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02f4b8a43495c6172243cf16f4">](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ffe04004d1e5636faa06763a">](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp)
 
-**Song**: We're Good
+**Song**: YOU CAN'T HOLD MY HEART
 
-**Artists**: Dua Lipa
+**Artists**: Monsta X
 
-Last updated at 04/14/2021 08:24
+Last updated at 04/14/2021 08:27
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
