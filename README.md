@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e0215f04c6e3d7c57a5a4348bca">](https://open.spotify.com/album/1oxxysQmylUXuxzSdHlqUc)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02ffe04004d1e5636faa06763a">](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp)
 
-**Song**: Welcome to Chilis
+**Song**: YOU CAN'T HOLD MY HEART
 
-**Artists**: Yung Gravy bbno$
+**Artists**: Monsta X
 
-Last updated at 04/14/2021 12:21
+Last updated at 04/14/2021 12:22
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
