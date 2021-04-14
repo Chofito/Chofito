@@ -1,11 +1,11 @@
 ## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02d0c97444ecc52c4ca601144a">](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02fec5ef9f3133aff71c525acc">](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM)
 
-**Song**: Little Things (with Quinn XCII & Chelsea Cutler)
+**Song**: Therefore I Am
 
-**Artists**: Louis The Child Quinn XCII Chelsea Cutler
+**Artists**: Billie Eilish
 
-Last updated at 04/14/2021 11:31
+Last updated at 04/14/2021 11:34
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
