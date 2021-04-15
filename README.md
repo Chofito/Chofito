@@ -1,38 +1,11 @@
-## Currently Playing on YouTube
+## Currently Playing on Spotify
 
-[<img align="left" width="100" src="https://yt3.ggpht.com/ytc/AAUvwnhupPsBICFztXs08y86Px6StQ0IQ4ZR91boYYrIwA=s48-c-k-c0x00ffffff-no-rj-mo">](https://www.youtube.com/channel/UCIvqWqjC4aLvp7zI8hzARrA)
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d00001e02be56177c667eca5074231bc5">](https://open.spotify.com/album/5DTP8GQPmmIa0snB8pGESz)
 
-**Song**: Cheat Codes, Little Mix - Only You (Official Video)
+**Song**: Beach Ballin' (feat. blackbear)
 
-**Artists**: 
-  
-    Little Mix
-  
-  
-    
+**Artists**: Yung Pinch blackbear
 
-    
-      
-    Little Mix
-  
-    
-
-
-
-  
-    
-    
-  
-    
-
-    
-      Canal oficial del artista
-    
-
-
-
-
-
-Last updated at 04/14/2021 17:00
+Last updated at 04/14/2021 18:19
 
 #### Generated with [20chan/github-now](https://github.com/20chan/github-now)
